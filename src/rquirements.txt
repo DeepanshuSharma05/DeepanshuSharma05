@@ -1,0 +1,12 @@
+functionalities
+
+-> users ,hospitals & NGOs registration (saved on database (mysql) fullName, phone number, address, blood group)
+-> show urgent blood requirements on a notice board type thing (real time update)
+-> api for fetching nearby hospitals
+-> generate certificates digitally signed by hospital for blood donor
+-> rewards to donor by the patient (optional) to encourage more blood donation by public
+-> notification to the registered users for urgent needs
+-> the donor will be given perks
+
+-> server (flask)
+
