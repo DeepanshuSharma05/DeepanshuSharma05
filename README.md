@@ -47,10 +47,10 @@ Feel free to explore my repositories, and don’t hesitate to connect or collabo
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65" alt="MySQL" />
       <br>MySQL
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <img src="[https://appwrite.io/images-ee/press/icon.svg](https://avatars.githubusercontent.com/u/25003669?v=4)" width="65" height="65" alt="Appwrite" />
       <br>Appwrite
-    </td>
+    </td> -->
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" height="65" alt="JavaScript" />
       <br>JavaScript
