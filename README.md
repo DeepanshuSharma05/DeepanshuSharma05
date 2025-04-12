@@ -48,7 +48,7 @@ Feel free to explore my repositories, and don’t hesitate to connect or collabo
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://appwrite.io/images-ee/press/icon.svg" width="65" height="65" alt="Appwrite" />
+      <img src="[https://appwrite.io/images-ee/press/icon.svg](https://avatars.githubusercontent.com/u/25003669?v=4)" width="65" height="65" alt="Appwrite" />
       <br>Appwrite
     </td>
     <td align="center" width="96">
