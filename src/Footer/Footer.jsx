@@ -58,7 +58,7 @@ const Footer = () => {
 
             {/* Background Big Text */}
             <div className="absolute bottom-0 left-0 w-full opacity-10 pointer-events-none select-none">
-                <h1 className="text-[20vw] font-black leading-none translate-y-1/4">SOCIAL</h1>
+                <h1 className="text-[28vw] font-black leading-none translate-y-1/4">SOCIAL</h1>
             </div>
         </footer>
     );
