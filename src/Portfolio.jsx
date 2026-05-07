@@ -28,8 +28,8 @@ export default function Portfolio() {
     const demoItems = [
         { link: 'javascript:void(0)', text: 'FRONTEND', image: 'Frontend.png' },
         { link: 'javascript:void(0)', text: 'BACKEND', image: 'Backend.png' },
-        { link: 'javascript:void(0)', text: 'MongoDB', image: 'Database.jpg' },
-        { link: 'javascript:void(0)', text: 'Express.JS', image: 'VersionControl.png' }
+        { link: 'javascript:void(0)', text: 'DATABASE', image: 'Database.jpg' },
+        { link: 'javascript:void(0)', text: 'DEPLOYMENT', image: 'VersionControl.png' }
     ];
 
     useGSAP(() => {
